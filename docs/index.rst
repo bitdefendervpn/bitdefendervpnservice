@@ -1,8 +1,7 @@
 How to Contact BitdefenderVPN Customer Service?
 ==============================================
 
-BitdefenderVPN provides customer service to help users resolve technical issues, manage subscriptions, recover accounts, and troubleshoot VPN connectivity problems. Whether you are using BitdefenderVPN on Windows, macOS, Android, or iOS, the official support team offers multiple assistance channels, including live chat, email, phone support (in supported regions), and an online knowledge base. :contentReference[oaicite:0]{index=0}
-
+BitdefenderVPN provides customer service to help users resolve technical issues, manage subscriptions, recover accounts, and troubleshoot VPN connectivity problems. Whether you are using BitdefenderVPN on Windows, macOS, Android, or iOS, the official support team offers multiple assistance channels, including live chat, email, phone support (in supported regions), and an online knowledge base. 
 
 .. image:: https://img.shields.io/badge/For%20Contact-1E90FF?style=for-the-badge&logo=icloud&logoColor=white
    :width: 220px
